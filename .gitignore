@@ -1,0 +1,19 @@
+# Ignore system files
+*.DAT
+*.LOG*
+*.ini
+.VirtualBox/
+.android/
+.dotnet/
+.gradle/
+.vscode/
+AppData/
+OneDrive/
+Documents/
+Desktop/
+Downloads/
+Music/
+Pictures/
+Videos/
+Saved Games/
+Searches/
