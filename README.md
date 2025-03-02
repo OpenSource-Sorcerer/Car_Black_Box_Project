@@ -19,7 +19,7 @@ speed, acceleration, brake status, and timestamped event data to help analyze dr
 # Work Flow
 
 Turn ON -----> DASHBOARD -----> MAIN MENU
-               [displays]       [displays]
+
                ├── TIME         ├── VIEW LOG  
                ├── GEAR             ├── Prints the (previous) Last 10 events on CLCD
                ├── SPEED        ├── DOWNLOAD LOG
