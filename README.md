@@ -31,29 +31,29 @@ Turn ON -----> DASHBOARD -----> MAIN MENU
                                     
 # File Structure
 
-├── I2C.c             - Function Defintions for I2C Protocol (initialization, read, write)
-├── I2C.h             - Function Declarations for I2C Protocol
-├── adc.c             - Function Defintions for ADC(for calculating speed) (initialization, read, write)
-├── adc.h             - Function Declarations for ADC(for calculating speed)
-├── black_box.h       - Function and structure declarations for all functions in project
-├── clcd.c            - Function Definitions for CLCD display (initialization, printing)
-├── clcd.h            - Function Declarations for CLCD display 
-├── clear_log.c       - Clears the stored logs
-├── dashboard.c       - Prints the common paramters like Time, Speed, Gear on CLCD display
-├── download_log.c    - Prints the Logs in teratrum(external software) using UART
-├── ds1307.c          - Function Defintions for RTC(Real Time Clock)
-├── ds1307.h          - Function Declarations for RTC
-├── eeprom.c          - Function Defintions for internal EEPROM (read, write)
-├── external_EEPROM.c - Function Defintions for external EEPROM (read, write)
-├── external_EEPROM.h - Function Declarations for external EEPROM (read, write)
-├── main.c            - All function Calls for the project
-├── main_menu.c       - Prints the Options like (view log, download log, clear log, set time) for user 
-├── matrix_keypad.h   - Function Declarations for keypad
-├── read_matrix_keypad.c - Function Defintions for matrix keypad
-├── set_time.c        - Editing time by user which shown on dashboard
-├── uart.c            - Functions Defintions for UART
-├── uart.h            - Function Declarations for UART
-├── view_log.c        - Prints the last 10 events occured
+    ├── I2C.c             - Function Defintions for I2C Protocol (initialization, read, write)
+    ├── I2C.h             - Function Declarations for I2C Protocol
+    ├── adc.c             - Function Defintions for ADC(for calculating speed) (initialization, read, write)
+    ├── adc.h             - Function Declarations for ADC(for calculating speed)
+    ├── black_box.h       - Function and structure declarations for all functions in project
+    ├── clcd.c            - Function Definitions for CLCD display (initialization, printing)
+    ├── clcd.h            - Function Declarations for CLCD display 
+    ├── clear_log.c       - Clears the stored logs
+    ├── dashboard.c       - Prints the common paramters like Time, Speed, Gear on CLCD display
+    ├── download_log.c    - Prints the Logs in teratrum(external software) using UART
+    ├── ds1307.c          - Function Defintions for RTC(Real Time Clock)
+    ├── ds1307.h          - Function Declarations for RTC
+    ├── eeprom.c          - Function Defintions for internal EEPROM (read, write)
+    ├── external_EEPROM.c - Function Defintions for external EEPROM (read, write)
+    ├── external_EEPROM.h - Function Declarations for external EEPROM (read, write)
+    ├── main.c            - All function Calls for the project
+    ├── main_menu.c       - Prints the Options like (view log, download log, clear log, set time) for user 
+    ├── matrix_keypad.h   - Function Declarations for keypad
+    ├── read_matrix_keypad.c - Function Defintions for matrix keypad
+    ├── set_time.c        - Editing time by user which shown on dashboard
+    ├── uart.c            - Functions Defintions for UART
+    ├── uart.h            - Function Declarations for UART
+    ├── view_log.c        - Prints the last 10 events occured
 
 # Future Enhancements
 
