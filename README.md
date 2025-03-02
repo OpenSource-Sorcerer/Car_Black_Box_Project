@@ -7,11 +7,14 @@ similar to an aircraft's black box. It captures and logs essential parameters su
 speed, acceleration, brake status, and timestamped event data to help analyze driving patterns and accident causes.
 
 # HARDWARE SPECIFICATIONS
-   RaidoLABS board(Development Kit) by Emertxe
-   Microcontroller - PIC18f4580
-   DATASHEET:
+
+    rhydolabs board(Development Kit)
+
+       https://www.rhydolabz.com/pic16f877a-development-board-rhydolabz
+
+    MicroController(PIC18F4580) datasheet
    
-    https://www.bing.com/ck/a?!&&p=813487720545ea35109321f287d238e81729e638819447e9da7e724da6f825d6JmltdHM9MTc0MDg3MzYwMA&ptn=3&ver=2&hsh=4&fclid=07df9f89-0e04-62ed-3276-8c4a0ff363f1&psq=pic18f4580+datasheet&u=a1aHR0cHM6Ly93dzEubWljcm9jaGlwLmNvbS9kb3dubG9hZHMvZW4vRGV2aWNlRG9jLzM5NjM3ZC5wZGY&ntb=1
+       https://www.bing.com/ck/a?!&&p=813487720545ea35109321f287d238e81729e638819447e9da7e724da6f825d6JmltdHM9MTc0MDg3MzYwMA&ptn=3&ver=2&hsh=4&fclid=07df9f89-0e04-62ed-3276-8c4a0ff363f1&psq=pic18f4580+datasheet&u=a1aHR0cHM6Ly93dzEubWljcm9jaGlwLmNvbS9kb3dubG9hZHMvZW4vRGV2aWNlRG9jLzM5NjM3ZC5wZGY&ntb=1
 
 # Features
 
