@@ -77,7 +77,7 @@ Turn ON -----> DASHBOARD -----> MAIN MENU
 
    - Mastery of Embedded C with PIC Microcontrollers
 
-   - Gained knowledge about Communication Protocols( UART, I2C )(i.e. peripharel programming) and files management
+   - Gained knowledge about Communication Protocols( UART, I2C )(i.e. peripharel programming),  files management and softwares like MPLAB IDE V5.35(for development), tinyBuildIn(For programming microcontroller) and TeraTerm(For debugging) 
      
 # Future Enhancements
 
