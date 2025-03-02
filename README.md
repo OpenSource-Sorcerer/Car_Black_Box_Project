@@ -16,6 +16,10 @@ speed, acceleration, brake status, and timestamped event data to help analyze dr
    
        https://www.bing.com/ck/a?!&&p=813487720545ea35109321f287d238e81729e638819447e9da7e724da6f825d6JmltdHM9MTc0MDg3MzYwMA&ptn=3&ver=2&hsh=4&fclid=07df9f89-0e04-62ed-3276-8c4a0ff363f1&psq=pic18f4580+datasheet&u=a1aHR0cHM6Ly93dzEubWljcm9jaGlwLmNvbS9kb3dubG9hZHMvZW4vRGV2aWNlRG9jLzM5NjM3ZC5wZGY&ntb=1
 
+    External RTC(ds1307) datasheet
+
+       https://www.bing.com/ck/a?!&&p=f05f19e5a3e6a841d894e2ecbda40ebcd708597689148f6e2b2d596b2618c557JmltdHM9MTc0MDg3MzYwMA&ptn=3&ver=2&hsh=4&fclid=07df9f89-0e04-62ed-3276-8c4a0ff363f1&psq=ds1307+datasheet&u=a1aHR0cHM6Ly93d3cuYW5hbG9nLmNvbS9tZWRpYS9lbi90ZWNobmljYWwtZG9jdW1lbnRhdGlvbi9kYXRhLXNoZWV0cy9EUzEzMDcucGRm&ntb=1
+
 # Features
 
   📌 Real-time data logging: Records key vehicle parameters at regular intervals.
