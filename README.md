@@ -6,6 +6,13 @@ The Car Black Box project is designed to record and store critical vehicle data,
 similar to an aircraft's black box. It captures and logs essential parameters such as 
 speed, acceleration, brake status, and timestamped event data to help analyze driving patterns and accident causes.
 
+# HARDWARE SPECIFICATIONS
+   RaidoLABS board(Development Kit) by Emertxe
+   Microcontroller - PIC18f4580
+   DATASHEET:
+   
+    https://www.bing.com/ck/a?!&&p=813487720545ea35109321f287d238e81729e638819447e9da7e724da6f825d6JmltdHM9MTc0MDg3MzYwMA&ptn=3&ver=2&hsh=4&fclid=07df9f89-0e04-62ed-3276-8c4a0ff363f1&psq=pic18f4580+datasheet&u=a1aHR0cHM6Ly93dzEubWljcm9jaGlwLmNvbS9kb3dubG9hZHMvZW4vRGV2aWNlRG9jLzM5NjM3ZC5wZGY&ntb=1
+
 # Features
 
   📌 Real-time data logging: Records key vehicle parameters at regular intervals.
@@ -55,6 +62,16 @@ Turn ON -----> DASHBOARD -----> MAIN MENU
     ├── uart.h            - Function Declarations for UART
     ├── view_log.c        - Prints the last 10 events occured
 
+# Learning Outcomes
+
+   - Enhanced problem-solving skills in eading and writing in EEPROM, CLCD and RTC
+
+   - Debugging and testing using Teraterm
+
+   - Mastery of Embedded C with PIC Microcontrollers
+
+   - Gained knowledge about Communication Protocols( UART, I2C )(i.e. peripharel programming) and files management
+     
 # Future Enhancements
 
   🛰 Integration with GPS to log location-based event data.
